@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import random
 import time
 import matplotlib.pyplot as plt
@@ -80,10 +74,3 @@ else:
     print("Results not saved.")
 
 print("All attempts taken. Thank you for playing!")
-
-
-# In[ ]:
-
-
-
-
